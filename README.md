@@ -1,7 +1,7 @@
 # Atividade sobre APIs, Crawlers, Scrapers e LGDP
 
-**Alunos:
-Gustavo Lira Santos
+**Alunos:<br>
+Gustavo Lira Santos<br>
 Rodolfo Bolconte Donato**
 
 Documento com as questões da Atividade: https://docs.google.com/document/d/1q-XAd2g4dF_JS61axpLB4kvVnaYtvk6Mi9EZ56447Bo/edit?usp=sharing
